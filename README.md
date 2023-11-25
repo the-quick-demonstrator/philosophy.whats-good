@@ -19,6 +19,8 @@
 
 
 
+<hr><hr>
+
 ## <u>Answer Sets</u>
 
 ### Answer set 1:
